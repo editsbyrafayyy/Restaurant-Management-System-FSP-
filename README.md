@@ -1,2 +1,2 @@
 # Restaurant-Management-System-FSP-
-A functioning Restaurant Management System for our first semester project
+A Functioning Restaurant Management System For our First-Semester Project
