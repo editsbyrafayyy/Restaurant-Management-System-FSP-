@@ -1,0 +1,12 @@
+Ayesha Malik|Cashier|ayesha.malik@email.com|28000|3.5|110
+Hassan Ahmed|Kitchen Staff|hassan.ahmed@email.com|32000|4|95
+Imran Khan|Fry Cook|imran.khan@email.com|29000|3.7|75
+Saba Ali|Cleaner|saba.ali@email.com|26000|3.2|65
+Soban Ali|Order Taker|soban.ali@email.com|10000|3.4|75
+Abdullah Malik|Order Taker|abdullah.malik@email.com|20000|3.2|80
+Ahmed Qureshi|Order Taker|ahmed.qureshi@email.com|27000|3.6|90
+Zainab Hussain|Grill Operator|zainab.hussain@email.com|31000|3.9|100
+Bilal Ahmed|Delivery Driver|bilal.ahmed@email.com|35000|4.1|85
+Hina Shah|Food Prep|hina.shah@email.com|30000|3.8|105
+Usman Ali|Shift Supervisor|usman.ali@email.com|38000|4.2|120
+Ammar Hussain|Emotional Support|l230780@lhr.nu.edu.pk|42069|5|68
