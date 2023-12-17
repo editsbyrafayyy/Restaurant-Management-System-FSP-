@@ -1,8 +1,9 @@
-Restaurant Management System Code (Manager's Usage)
-This code is command-line interface tool for managing both employees and the menu of a restaurant. It uses text files for data storage and provides various functionalities through a menu-driven interface.
+Restaurant Management System Code (Manager and Employee Usage)
+
+This code is a command-line interface tool for managing both employees and the menu of a restaurant. It uses text files for data storage and provides various functionalities through a menu-driven interface.
 
 Employee Management (The First Part of The Program is To Be Used by The Manager. The Second Part
-Of The Code Is For The Order Takers and Drive-Thru Employees To Use - Two Seperate Functioning Codes)
+Of The Code Is For The Order Takers and Drive-Thru Employees To Use - Two Separate Functioning Codes)
 
 Data Storage: Employee information is stored in the "employee.txt" file, formatted with each line representing an employee's details separated by commas (name, position, contact details, salary, ratings).
 
